@@ -1,1 +1,1 @@
-Este proyecto es una pruba de como clonar una carpeta 
+Este proyecto es una prueba para clonar archivos de la nube p 
