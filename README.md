@@ -1,2 +1,1 @@
-# Curos-preparativo
-prurba del curso preparativo
+Este proyecto es una pruba de como clonar una carpeta 
